@@ -1,0 +1,21 @@
+.centered{
+  text-align: center;
+}
+
+.container{
+  max-width: 700px;
+  margin: auto;
+  /* display: flex; */
+}
+
+.fr{
+  float: right;
+}
+
+.spaces{
+  white-space: pre;
+}
+
+.ml-25{
+  margin-left: 25px;
+}
